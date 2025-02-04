@@ -1,3 +1,4 @@
+
 /* Reset and Base Styles */
 * {
   margin: 0;
@@ -194,6 +195,8 @@ body {
   transition: opacity 0.3s ease;
 }
 
+
+
 /* Fade Overlay */
 .image-column::after {
   content: '';
@@ -357,3 +360,4 @@ body {
 .spin {
   animation: spin 1s linear infinite;
 }
+
